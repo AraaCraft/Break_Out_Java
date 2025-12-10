@@ -34,7 +34,7 @@ Un mode développeur a été inclus pour faciliter les tests et démontrer la ca
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://www.wordreference.com/fren/d%C3%A9p%C3%B4t](https://www.wordreference.com/fren/d%C3%A9p%C3%B4t)
+    git clone https://github.com/AraaCraft/Break_Out_Java/
     ```
 2.  **Ouvrir le projet** dans votre IDE.
 3.  Exécuter la classe principale **`Main.java`**.
